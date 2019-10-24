@@ -19,3 +19,9 @@ Xcode10中缺少的`libstdc++6.0.9.tbd`库
 
 4/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/
 ```
+Xcode11路径：
+Xcode11文件1路径发生改变
+```
+1/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib
+```
+
